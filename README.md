@@ -1,2 +1,2 @@
 # github-for-noobs
-#Still trying to figure this out lol
+Trying github for the first time after watching Youtube video, github for noobs part 3
